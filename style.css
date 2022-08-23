@@ -1,3 +1,7 @@
+/* .........................  */
+/* CSS RESET  */
+/* .........................  */
+
 * {
   padding: 0;
   margin: 0;
@@ -22,7 +26,9 @@ body {
   margin: 0 auto;
 }
 
-/* navbar style  */
+/* .........................  */
+/* NAVBAR-STYLE  */
+/* .........................  */
 
 .navbar {
   display: flex;
@@ -49,7 +55,7 @@ body {
   color: #5f5d56;
 }
 
-.list-item:hover{
+.list-item:hover {
   cursor: pointer;
   color: #fff;
 }
@@ -66,14 +72,15 @@ body {
   border-radius: 10px;
   background-color: #2b2922;
   cursor: pointer;
-
 }
-.button-small:hover{
-  color:#fff;
+.button-small:hover {
+  color: #fff;
   background-color: #72672e;
 }
 
-/* Hero Section */
+/* .........................  */
+/* HERO-SECTION STYLE  */
+/* .........................  */
 
 .hero {
   display: flex;
